@@ -38,3 +38,4 @@ with PLC() as comm:
 
 json.dump(output_tags, open(files, "w"), indent=4)
 print(f'Tag Data written to {files}')
+#Git test

@@ -56,3 +56,4 @@ with PLC() as comm:
 
 
         print('Tag Data written to {}'.format(files))
+print('Test')
